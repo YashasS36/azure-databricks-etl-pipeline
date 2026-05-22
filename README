@@ -1,1 +1,65 @@
+# Azure Databricks ETL Pipeline Project
 
+## Project Overview
+Built an end-to-end ETL pipeline using Microsoft Azure, Azure Databricks, PySpark, SQL, and Delta Lake to process sales data and generate business KPIs.
+
+---
+
+## Technologies Used
+- Microsoft Azure
+- Azure Databricks
+- PySpark
+- SQL
+- Delta Lake
+- Data Engineering
+- ETL Pipeline
+
+---
+
+## Project Architecture
+
+Raw Data → Bronze Layer → Silver Layer → Gold Layer → Analytics Dashboard
+
+---
+
+## Features
+- Data Ingestion
+- Data Cleaning
+- ETL Processing
+- PySpark Transformations
+- SQL Analytics
+- Delta Tables
+- KPI Analysis
+
+---
+
+## KPIs Generated
+- Total Sales
+- Top Products
+- Monthly Revenue
+- Regional Performance
+- Customer Insights
+
+---
+
+## Learning Outcomes
+- Built scalable ETL workflows
+- Learned cloud-based data engineering
+- Worked with Azure Databricks
+- Implemented Medallion Architecture
+- Performed business analytics using Spark SQL
+
+---
+
+## Project Files
+- `.dbc` Databricks Notebook
+- `.html` Notebook Export
+- SQL Queries
+- PySpark Transformations
+
+---
+
+## Future Improvements
+- Power BI Dashboard Integration
+- Real-time Streaming Pipeline
+- Azure Data Factory Integration
